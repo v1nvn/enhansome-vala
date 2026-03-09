@@ -45,7 +45,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Design Tools
 
-* [Akira](https://github.com/akiraux/Akira) ⭐ 5,326 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
+* [Akira](https://github.com/akiraux/Akira) ⭐ 5,325 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 533 | 🐛 76 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
@@ -57,7 +57,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Games
 
 * [GameHub](https://github.com/tkashkin/GameHub) ⚠️ Archived - A unified library for all your games.
-* [Warble](https://github.com/avojak/warble) ⭐ 88 | 🐛 4 | 🌐 Vala | 📅 2024-11-05 - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
+* [Warble](https://github.com/avojak/warble) ⭐ 88 | 🐛 5 | 🌐 Vala | 📅 2024-11-05 - Native Linux word-guessing game built in Vala and Gtk for elementary OS.
 * [Sage](https://github.com/antolius/sage) ⭐ 10 | 🐛 2 | 🌐 Vala | 📅 2022-08-08 - A code breaking game made for elementary OS.
 * [High Score (GNOME Games)](https://gitlab.gnome.org/World/highscore) - Retro gaming application for the GNOME desktop.
 
@@ -71,16 +71,16 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,706 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,707 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,022 | 🐛 171 | 🌐 Vala | 📅 2026-03-07 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,402 | 🐛 648 | 🌐 Vala | 📅 2026-03-06 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,793 | 🐛 28 | 🌐 Vala | 📅 2025-09-05 - A GTK presenter application with multi-monitor support for PDF files.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,024 | 🐛 174 | 🌐 Vala | 📅 2026-03-07 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,401 | 🐛 649 | 🌐 Vala | 📅 2026-03-06 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,795 | 🐛 28 | 🌐 Vala | 📅 2025-09-05 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,376 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,146 | 🐛 49 | 🌐 Vala | 📅 2026-02-24 - Mind-mapping application.
-* [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 80 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
+* [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 80 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 608 | 🐛 49 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 415 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
 * [Annotator](https://github.com/phase1geo/Annotator) ⭐ 271 | 🐛 8 | 🌐 Vala | 📅 2026-03-06 - Annotate images for better communication.
@@ -98,7 +98,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,337 | 🐛 90 | 🌐 Vala | 📅 2026-02-18 - A simple GTK based notification daemon for SwayWM.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,341 | 🐛 90 | 🌐 Vala | 📅 2026-02-18 - A simple GTK based notification daemon for SwayWM.
 * [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 551 | 🐛 161 | 🌐 Vala | 📅 2026-03-04 - Pay-what-you-can app store for elementary OS.
 * [Monitor](https://github.com/stsdc/monitor) ⭐ 352 | 🐛 38 | 🌐 Vala | 📅 2026-03-06 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
