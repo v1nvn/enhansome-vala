@@ -75,8 +75,8 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,024 | 🐛 174 | 🌐 Vala | 📅 2026-03-07 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,401 | 🐛 649 | 🌐 Vala | 📅 2026-03-06 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,025 | 🐛 175 | 🌐 Vala | 📅 2026-03-07 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,403 | 🐛 649 | 🌐 Vala | 📅 2026-03-06 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,795 | 🐛 28 | 🌐 Vala | 📅 2025-09-05 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,376 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,146 | 🐛 49 | 🌐 Vala | 📅 2026-02-24 - Mind-mapping application.
@@ -98,8 +98,8 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,341 | 🐛 90 | 🌐 Vala | 📅 2026-02-18 - A simple GTK based notification daemon for SwayWM.
-* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 551 | 🐛 161 | 🌐 Vala | 📅 2026-03-04 - Pay-what-you-can app store for elementary OS.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,342 | 🐛 90 | 🌐 Vala | 📅 2026-02-18 - A simple GTK based notification daemon for SwayWM.
+* [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 551 | 🐛 162 | 🌐 Vala | 📅 2026-03-09 - Pay-what-you-can app store for elementary OS.
 * [Monitor](https://github.com/stsdc/monitor) ⭐ 352 | 🐛 38 | 🌐 Vala | 📅 2026-03-06 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
 * [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
