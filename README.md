@@ -51,7 +51,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Development Tools
 
 * [GitG](https://gitlab.gnome.org/GNOME/gitg) - A graphical user interface for [git](https://git-scm.com/).
-* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 465 | 🐛 27 | 🌐 TSQL | 📅 2026-02-28 - AI-powered SQL client and admin tool for popular databases.
+* [Kangaroo](https://github.com/dbkangaroo/kangaroo) ⭐ 464 | 🐛 27 | 🌐 TSQL | 📅 2026-02-28 - AI-powered SQL client and admin tool for popular databases.
 * [VAMM (Vinari OS Apache & MariaDB Manager)](https://gitlab.com/XavierEduardo99/vamm-vinari-software) - Manages LAMP services using a GTK 3 GUI.
 
 ### Games
@@ -75,11 +75,11 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,086 | 🐛 160 | 🌐 Vala | 📅 2026-03-27 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,419 | 🐛 649 | 🌐 Vala | 📅 2026-03-27 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,091 | 🐛 162 | 🌐 Vala | 📅 2026-03-27 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,418 | 🐛 654 | 🌐 Vala | 📅 2026-03-27 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,800 | 🐛 28 | 🌐 Vala | 📅 2025-09-05 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,375 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,153 | 🐛 52 | 🌐 Vala | 📅 2026-03-21 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,153 | 🐛 51 | 🌐 Vala | 📅 2026-03-28 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 609 | 🐛 50 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 416 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
