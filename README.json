@@ -50,7 +50,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2730
+            "stars": 2728
           }
         },
         {
@@ -113,7 +113,7 @@
             "last_commit": "2025-11-27T10:37:37Z",
             "owner": "elfenware",
             "repo": "badger",
-            "stars": 53
+            "stars": 54
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-03-29T11:22:33Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2420
+            "stars": 2419
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-03-27T11:49:00Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5093
+            "stars": 5094
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2022-03-22T23:36:23Z",
             "owner": "Philip-Scott",
             "repo": "Spice-up",
-            "stars": 610
+            "stars": 609
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-03-20T10:29:28Z",
             "owner": "RajSolai",
             "repo": "TextSnatcher",
-            "stars": 1375
+            "stars": 1376
           }
         }
       ],
@@ -352,7 +352,7 @@
             "last_commit": "2026-03-27T12:43:49Z",
             "owner": "elementary",
             "repo": "monitor",
-            "stars": 354
+            "stars": 355
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10563
+            "stars": 10562
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-03-23T23:00:19Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2378
+            "stars": 2377
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-04-01T04:43:30.591Z",
+    "last_updated": "2026-04-02T04:24:43.786Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
