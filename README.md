@@ -75,7 +75,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,132 | 🐛 157 | 🌐 Vala | 📅 2026-04-11 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,134 | 🐛 148 | 🌐 Vala | 📅 2026-04-12 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,423 | 🐛 655 | 🌐 Vala | 📅 2026-04-10 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,804 | 🐛 28 | 🌐 Vala | 📅 2025-09-05 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,376 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
@@ -98,7 +98,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,401 | 🐛 94 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,403 | 🐛 94 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
 * [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 552 | 🐛 160 | 🌐 Vala | 📅 2026-03-31 - Pay-what-you-can app store for elementary OS.
 * [Monitor](https://github.com/stsdc/monitor) ⭐ 357 | 🐛 38 | 🌐 Vala | 📅 2026-04-10 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
