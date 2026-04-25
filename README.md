@@ -63,7 +63,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Internet Browsers
 
-* [Starfish](https://github.com/starfish-app/Starfish) ⭐ 31 | 🐛 18 | 🌐 Vala | 📅 2022-07-31 - A Gemini browser for elementary OS.
+* [Starfish](https://github.com/starfish-app/Starfish) ⭐ 32 | 🐛 18 | 🌐 Vala | 📅 2022-07-31 - A Gemini browser for elementary OS.
 
 ### Music
 
@@ -76,14 +76,14 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Productivity
 
 * [Planify](https://github.com/alainm23/planify) ⭐ 5,236 | 🐛 143 | 🌐 Vala | 📅 2026-04-23 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,433 | 🐛 655 | 🌐 Vala | 📅 2026-04-10 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,811 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [Dino](https://github.com/dino/dino) ⭐ 2,433 | 🐛 655 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,812 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,375 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,157 | 🐛 49 | 🌐 Vala | 📅 2026-04-19 - Mind-mapping application.
-* [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 628 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,158 | 🐛 49 | 🌐 Vala | 📅 2026-04-19 - Mind-mapping application.
+* [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 610 | 🐛 50 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 416 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
-* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 271 | 🐛 4 | 🌐 Vala | 📅 2026-04-24 - Annotate images for better communication.
+* [Annotator](https://github.com/phase1geo/Annotator) ⭐ 271 | 🐛 4 | 🌐 Vala | 📅 2026-04-25 - Annotate images for better communication.
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 131 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.
 * [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 6 | 🌐 Vala | 📅 2026-02-08 - Write outlines easily.
