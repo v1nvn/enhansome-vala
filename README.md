@@ -46,7 +46,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Design Tools
 
 * [Akira](https://github.com/akiraux/Akira) ⭐ 5,325 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
-* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 539 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 538 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
@@ -75,8 +75,8 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,258 | 🐛 138 | 🌐 Vala | 📅 2026-05-03 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,436 | 🐛 658 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,260 | 🐛 138 | 🌐 Vala | 📅 2026-05-03 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,436 | 🐛 660 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,816 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,376 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,163 | 🐛 49 | 🌐 Vala | 📅 2026-04-19 - Mind-mapping application.
@@ -86,7 +86,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 * [Annotator](https://github.com/phase1geo/Annotator) ⭐ 271 | 🐛 5 | 🌐 Vala | 📅 2026-04-29 - Annotate images for better communication.
 * [Flowtime](https://github.com/Diego-Ivan/Flowtime) ⭐ 131 | 🐛 12 | 🌐 Vala | 📅 2025-04-28 - GTK4 Libadwaita Pomodoro Timer.
 * [Ideogram](https://github.com/cassidyjames/ideogram) ⚠️ Archived -  Emoji Picker app.
-* [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 6 | 🌐 Vala | 📅 2026-05-04 - Write outlines easily.
+* [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 6 | 🌐 Vala | 📅 2026-05-05 - Write outlines easily.
 * [Badger](https://github.com/elfenware/badger) ⭐ 54 | 🐛 4 | 🌐 Vala | 📅 2025-11-27 - Remind yourself to not sit and stare at the screen for too long.
 * [graphui](https://github.com/artemanufrij/graphui) ⭐ 21 | 🐛 9 | 🌐 Vala | 📅 2022-02-24 - Graph Visualization based on graphviz.
 * [TextShine](https://github.com/phase1geo/TextShine) ⭐ 20 | 🐛 1 | 🌐 Vala | 📅 2026-05-03 - Convert and manipulate text.
