@@ -18,7 +18,7 @@
             "last_commit": "2025-12-30T23:56:04Z",
             "owner": "akiraux",
             "repo": "Akira",
-            "stars": 5325
+            "stars": 5326
           }
         },
         {
@@ -50,7 +50,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2751
+            "stars": 2752
           }
         },
         {
@@ -97,7 +97,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-07T04:48:06Z",
+            "last_commit": "2026-05-09T02:27:20Z",
             "owner": "phase1geo",
             "repo": "Annotator",
             "stars": 271
@@ -229,7 +229,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-07T15:39:20Z",
+            "last_commit": "2026-05-08T21:29:55Z",
             "owner": "phase1geo",
             "repo": "Outliner",
             "stars": 63
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-07T15:19:42Z",
+            "last_commit": "2026-05-08T11:29:53Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5270
+            "stars": 5272
           }
         },
         {
@@ -276,7 +276,7 @@
             "last_commit": "2022-03-22T23:36:23Z",
             "owner": "Philip-Scott",
             "repo": "Spice-up",
-            "stars": 609
+            "stars": 610
           }
         },
         {
@@ -323,7 +323,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-07T11:11:59Z",
+            "last_commit": "2026-05-08T11:38:55Z",
             "owner": "elementary",
             "repo": "appcenter",
             "stars": 553
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2442
+            "stars": 2443
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-08T04:49:57.679Z",
+    "last_updated": "2026-05-09T05:17:05.315Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
