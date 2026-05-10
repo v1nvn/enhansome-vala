@@ -50,7 +50,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2752
+            "stars": 2753
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-04-24T09:18:15Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2437
+            "stars": 2436
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-04-23T11:01:15Z",
             "owner": "pdfpc",
             "repo": "pdfpc",
-            "stars": 1818
+            "stars": 1819
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-08T11:29:53Z",
+            "last_commit": "2026-05-09T19:04:12Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5272
+            "stars": 5276
           }
         },
         {
@@ -302,7 +302,7 @@
             "last_commit": "2024-03-20T10:29:28Z",
             "owner": "RajSolai",
             "repo": "TextSnatcher",
-            "stars": 1377
+            "stars": 1378
           }
         }
       ],
@@ -352,7 +352,7 @@
             "last_commit": "2026-04-10T21:58:36Z",
             "owner": "elementary",
             "repo": "monitor",
-            "stars": 358
+            "stars": 359
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2443
+            "stars": 2444
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-09T05:17:05.315Z",
+    "last_updated": "2026-05-10T05:32:22.430Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
