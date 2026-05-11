@@ -50,7 +50,7 @@
             "last_commit": "2025-04-13T15:01:45Z",
             "owner": "tkashkin",
             "repo": "GameHub",
-            "stars": 2753
+            "stars": 2754
           }
         },
         {
@@ -131,7 +131,7 @@
             "last_commit": "2026-04-24T09:18:15Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2436
+            "stars": 2437
           }
         },
         {
@@ -263,7 +263,7 @@
             "last_commit": "2026-05-09T19:04:12Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5276
+            "stars": 5275
           }
         },
         {
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-04-10T21:58:36Z",
+            "last_commit": "2026-05-10T16:19:04Z",
             "owner": "elementary",
             "repo": "monitor",
             "stars": 359
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2444
+            "stars": 2445
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-10T05:32:22.430Z",
+    "last_updated": "2026-05-11T05:53:41.123Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
