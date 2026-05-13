@@ -46,7 +46,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Design Tools
 
 * [Akira](https://github.com/akiraux/Akira) ⭐ 5,327 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
-* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 538 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 539 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
@@ -71,15 +71,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,717 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,719 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,277 | 🐛 133 | 🌐 Vala | 📅 2026-05-11 - Task manager with Todoist support designed for GNU/Linux.
-* [Dino](https://github.com/dino/dino) ⭐ 2,436 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,819 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,276 | 🐛 133 | 🌐 Vala | 📅 2026-05-12 - Task manager with Todoist support designed for GNU/Linux.
+* [Dino](https://github.com/dino/dino) ⭐ 2,437 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,820 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,379 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,163 | 🐛 49 | 🌐 Vala | 📅 2026-04-19 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,162 | 🐛 49 | 🌐 Vala | 📅 2026-05-13 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 610 | 🐛 50 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
@@ -114,7 +114,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ## CLI Tools
 
-* [Valdo](https://github.com/vala-lang/valdo) ⭐ 55 | 🐛 9 | 🌐 Vala | 📅 2026-03-01 - Create new Vala projects from templates.
+* [Valdo](https://github.com/vala-lang/valdo) ⭐ 55 | 🐛 10 | 🌐 Vala | 📅 2026-03-01 - Create new Vala projects from templates.
 * [EasyDocs](https://github.com/watsonprojects/EasyDocs) ⭐ 7 | 🐛 4 | 🌐 Vala | 📅 2021-11-26 -  Quickly read developer documentation.
 * [Spider](https://github.com/colinkiama/spider) ⭐ 1 | 🐛 0 | 🌐 Vala | 📅 2022-01-08 - Quickly generate a HTML5 site structure.
 
@@ -127,7 +127,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ## Language Servers
 
-* [vala-language-server](https://github.com/vala-lang/vala-language-server) ⭐ 331 | 🐛 75 | 🌐 Vala | 📅 2026-05-07 - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
+* [vala-language-server](https://github.com/vala-lang/vala-language-server) ⭐ 331 | 🐛 76 | 🌐 Vala | 📅 2026-05-07 - A language server that aims to provide code completion, formatting, syntax highlighting, and everything else according to the Language Server spec.
 
 ## Libraries
 
