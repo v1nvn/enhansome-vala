@@ -131,7 +131,7 @@
             "last_commit": "2026-04-24T09:18:15Z",
             "owner": "dino",
             "repo": "dino",
-            "stars": 2437
+            "stars": 2438
           }
         },
         {
@@ -144,7 +144,7 @@
             "last_commit": "2025-04-28T16:22:16Z",
             "owner": "Diego-Ivan",
             "repo": "Flowtime",
-            "stars": 132
+            "stars": 133
           }
         },
         {
@@ -190,10 +190,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-14T04:10:55Z",
+            "last_commit": "2026-05-15T03:42:29Z",
             "owner": "phase1geo",
             "repo": "Minder",
-            "stars": 1165
+            "stars": 1166
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-13T12:19:24Z",
+            "last_commit": "2026-05-14T12:16:24Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5275
+            "stars": 5279
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10562
+            "stars": 10561
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2448
+            "stars": 2449
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-14T05:42:34.221Z",
+    "last_updated": "2026-05-15T05:49:29.578Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
