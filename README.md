@@ -71,15 +71,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,719 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,721 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,279 | 🐛 126 | 🌐 Vala | 📅 2026-05-14 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,282 | 🐛 128 | 🌐 Vala | 📅 2026-05-15 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,438 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
 * [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,820 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,379 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,166 | 🐛 49 | 🌐 Vala | 📅 2026-05-15 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,166 | 🐛 49 | 🌐 Vala | 📅 2026-05-16 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 610 | 🐛 50 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
