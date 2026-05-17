@@ -75,9 +75,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,282 | 🐛 128 | 🌐 Vala | 📅 2026-05-15 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,281 | 🐛 130 | 🌐 Vala | 📅 2026-05-15 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,438 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,820 | 🐛 28 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,820 | 🐛 29 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,379 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,166 | 🐛 49 | 🌐 Vala | 📅 2026-05-16 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
@@ -98,9 +98,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,449 | 🐛 111 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,450 | 🐛 111 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
 * [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 553 | 🐛 159 | 🌐 Vala | 📅 2026-05-08 - Pay-what-you-can app store for elementary OS.
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 359 | 🐛 38 | 🌐 Vala | 📅 2026-05-10 - Manage processes and monitor system resources.
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 360 | 🐛 38 | 🌐 Vala | 📅 2026-05-10 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
 * [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
 
@@ -145,7 +145,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Data Structures & Data Types
 
-* [Graphene](https://github.com/ebassi/graphene) ⭐ 427 | 🐛 17 | 🌐 C | 📅 2025-12-19 - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+* [Graphene](https://github.com/ebassi/graphene) ⭐ 428 | 🐛 17 | 🌐 C | 📅 2025-12-19 - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 * [United](https://github.com/lcallarec/united) ⭐ 11 | 🐛 0 | 🌐 Vala | 📅 2020-04-23 - A library for unit manipulation (like kilograms, meters, etc).
 * [Numeric-GLib](https://github.com/arteymix/numeric-glib) ⭐ 8 | 🐛 10 | 🌐 C | 📅 2020-02-18 - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 * [Libgee](https://gitlab.gnome.org/GNOME/libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).
