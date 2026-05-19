@@ -190,7 +190,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-16T01:08:15Z",
+            "last_commit": "2026-05-19T04:01:23Z",
             "owner": "phase1geo",
             "repo": "Minder",
             "stars": 1166
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-17T22:57:52Z",
+            "last_commit": "2026-05-18T15:32:40Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5286
+            "stars": 5291
           }
         },
         {
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2453
+            "stars": 2456
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-18T06:06:55.265Z",
+    "last_updated": "2026-05-19T06:01:20.100Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
