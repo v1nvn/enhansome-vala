@@ -46,7 +46,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### Design Tools
 
 * [Akira](https://github.com/akiraux/Akira) ⭐ 5,327 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
-* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 540 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
+* [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 541 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
 
@@ -75,9 +75,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,291 | 🐛 131 | 🌐 Vala | 📅 2026-05-18 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,293 | 🐛 127 | 🌐 Vala | 📅 2026-05-19 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,439 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,821 | 🐛 29 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,823 | 🐛 29 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,379 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
 * [Minder](https://github.com/phase1geo/Minder) ⭐ 1,166 | 🐛 49 | 🌐 Vala | 📅 2026-05-19 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
@@ -89,7 +89,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 * [Outliner](https://github.com/phase1geo/Outliner) ⭐ 63 | 🐛 6 | 🌐 Vala | 📅 2026-05-08 - Write outlines easily.
 * [Badger](https://github.com/elfenware/badger) ⭐ 54 | 🐛 4 | 🌐 Vala | 📅 2025-11-27 - Remind yourself to not sit and stare at the screen for too long.
 * [graphui](https://github.com/artemanufrij/graphui) ⭐ 21 | 🐛 9 | 🌐 Vala | 📅 2022-02-24 - Graph Visualization based on graphviz.
-* [TextShine](https://github.com/phase1geo/TextShine) ⭐ 20 | 🐛 1 | 🌐 Vala | 📅 2026-05-03 - Convert and manipulate text.
+* [TextShine](https://github.com/phase1geo/TextShine) ⭐ 19 | 🐛 1 | 🌐 Vala | 📅 2026-05-03 - Convert and manipulate text.
 * [Blackbox](https://gitlab.gnome.org/raggesilver/blackbox) - A beautiful GTK 4 terminal.
 * [geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME 3 desktop.
 * [GNOME Calculator](https://gitlab.gnome.org/GNOME/gnome-calculator) - The calculator app for the GNOME desktop.
@@ -98,9 +98,9 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 ### System Tools
 
 * [Peek](https://github.com/phw/peek) ⚠️ Archived - Simple animated GIF screen recorder with an easy to use interface.
-* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,456 | 🐛 111 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
+* [SwayNotifiationCenter](https://github.com/ErikReider/SwayNotificationCenter) ⭐ 2,460 | 🐛 111 | 🌐 Vala | 📅 2026-04-04 - A simple GTK based notification daemon for SwayWM.
 * [elementary OS App Center](https://github.com/elementary/appcenter) ⭐ 553 | 🐛 159 | 🌐 Vala | 📅 2026-05-17 - Pay-what-you-can app store for elementary OS.
-* [Monitor](https://github.com/stsdc/monitor) ⭐ 360 | 🐛 38 | 🌐 Vala | 📅 2026-05-10 - Manage processes and monitor system resources.
+* [Monitor](https://github.com/stsdc/monitor) ⭐ 360 | 🐛 38 | 🌐 Vala | 📅 2026-05-19 - Manage processes and monitor system resources.
 * [Man Helper](https://github.com/akarin123/manhelper) ⭐ 11 | 🐛 2 | 🌐 Vala | 📅 2022-07-28 -  A lightweight GTK front-end for man pages.
 * [Connections](https://gitlab.gnome.org/GNOME/connections) - A remote desktop client for the GNOME desktop environment.
 

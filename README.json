@@ -31,7 +31,7 @@
             "last_commit": "2025-11-23T19:49:15Z",
             "owner": "johanmattssonm",
             "repo": "birdfont",
-            "stars": 540
+            "stars": 541
           }
         }
       ],
@@ -250,7 +250,7 @@
             "last_commit": "2026-04-23T11:01:15Z",
             "owner": "pdfpc",
             "repo": "pdfpc",
-            "stars": 1821
+            "stars": 1823
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-18T15:32:40Z",
+            "last_commit": "2026-05-19T14:54:45Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5291
+            "stars": 5293
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-05-03T03:03:22Z",
             "owner": "phase1geo",
             "repo": "TextShine",
-            "stars": 20
+            "stars": 19
           }
         },
         {
@@ -349,7 +349,7 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-10T16:19:04Z",
+            "last_commit": "2026-05-19T15:54:06Z",
             "owner": "elementary",
             "repo": "monitor",
             "stars": 360
@@ -378,7 +378,7 @@
             "last_commit": "2026-04-04T23:31:02Z",
             "owner": "ErikReider",
             "repo": "SwayNotificationCenter",
-            "stars": 2456
+            "stars": 2460
           }
         }
       ],
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-19T06:01:20.100Z",
+    "last_updated": "2026-05-20T06:01:19.241Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
