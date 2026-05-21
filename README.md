@@ -45,7 +45,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Design Tools
 
-* [Akira](https://github.com/akiraux/Akira) ⭐ 5,327 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
+* [Akira](https://github.com/akiraux/Akira) ⭐ 5,326 | 🐛 40 | 🌐 Vala | 📅 2025-12-30 -  Native Linux App for UI and UX Design built in Vala and GTK.
 * [Birdfont](https://github.com/johanmattssonm/birdfont) ⭐ 541 | 🐛 77 | 🌐 Vala | 📅 2025-11-23 - A font editor for creating fonts in TTF, EOT, SVG and BIRDFONT format.
 
 ### Development Tools
@@ -71,15 +71,15 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Personalization
 
-* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,724 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
+* [Korembi](https://github.com/cheesecakeufo/komorebi) ⭐ 3,723 | 🐛 290 | 🌐 Vala | 📅 2025-07-21 - A beautiful and customizable wallpapers manager for Linux.
 
 ### Productivity
 
-* [Planify](https://github.com/alainm23/planify) ⭐ 5,293 | 🐛 127 | 🌐 Vala | 📅 2026-05-19 - Task manager with Todoist support designed for GNU/Linux.
+* [Planify](https://github.com/alainm23/planify) ⭐ 5,297 | 🐛 128 | 🌐 Vala | 📅 2026-05-20 - Task manager with Todoist support designed for GNU/Linux.
 * [Dino](https://github.com/dino/dino) ⭐ 2,439 | 🐛 662 | 🌐 Vala | 📅 2026-04-24 - A modern Jabber/XMPP Client using GTK+/Vala.
-* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,823 | 🐛 29 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
+* [pdfpc](https://github.com/pdfpc/pdfpc) ⭐ 1,825 | 🐛 29 | 🌐 Vala | 📅 2026-04-23 - A GTK presenter application with multi-monitor support for PDF files.
 * [TextSnatcher](https://github.com/RajSolai/TextSnatcher) ⭐ 1,379 | 🐛 43 | 🌐 Vala | 📅 2024-03-20 - Copy text from Images with ease.
-* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,166 | 🐛 49 | 🌐 Vala | 📅 2026-05-19 - Mind-mapping application.
+* [Minder](https://github.com/phase1geo/Minder) ⭐ 1,168 | 🐛 49 | 🌐 Vala | 📅 2026-05-19 - Mind-mapping application.
 * [Notes-up](https://github.com/Philip-Scott/Notes-up) ⭐ 629 | 🐛 81 | 🌐 Vala | 📅 2022-03-24 - Markdown notes editor & manager.
 * [Spice-up](https://github.com/Philip-Scott/Spice-up) ⭐ 610 | 🐛 50 | 🌐 Vala | 📅 2022-03-22 - Presentations App for the modern Linux Desktop.
 * [Notejot](https://github.com/lainsce/notejot) ⭐ 417 | 🐛 1 | 🌐 Vala | 📅 2025-10-05 - Stupidly-simple notes app.
@@ -145,7 +145,7 @@ A curated list of resources for [Vala](https://vala.dev/) - A programming langua
 
 ### Data Structures & Data Types
 
-* [Graphene](https://github.com/ebassi/graphene) ⭐ 428 | 🐛 17 | 🌐 C | 📅 2025-12-19 - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
+* [Graphene](https://github.com/ebassi/graphene) ⭐ 429 | 🐛 17 | 🌐 C | 📅 2025-12-19 - A thin layer of types for graphic libraries. It provides common types needed to handle 3D transformations: points, triangles, rectangles, quads, quaternions, vectors, matrices, spheres, etc.
 * [United](https://github.com/lcallarec/united) ⭐ 11 | 🐛 0 | 🌐 Vala | 📅 2020-04-23 - A library for unit manipulation (like kilograms, meters, etc).
 * [Numeric-GLib](https://github.com/arteymix/numeric-glib) ⭐ 8 | 🐛 10 | 🌐 C | 📅 2020-02-18 - A collection of numeric data types for GLib (and Vala) via GCC extensions. It includes 128 bit integers & floats, complex types, vectorized operations, and decimal types.
 * [Libgee](https://gitlab.gnome.org/GNOME/libgee) - A utility library providing GObject-based interfaces and classes for commonly used data structures (lists, maps, queues, trees, etc.).

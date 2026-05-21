@@ -18,7 +18,7 @@
             "last_commit": "2025-12-30T23:56:04Z",
             "owner": "akiraux",
             "repo": "Akira",
-            "stars": 5327
+            "stars": 5326
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-19T04:01:23Z",
             "owner": "phase1geo",
             "repo": "Minder",
-            "stars": 1166
+            "stars": 1168
           }
         },
         {
@@ -250,7 +250,7 @@
             "last_commit": "2026-04-23T11:01:15Z",
             "owner": "pdfpc",
             "repo": "pdfpc",
-            "stars": 1823
+            "stars": 1825
           }
         },
         {
@@ -260,10 +260,10 @@
           "repo_info": {
             "archived": false,
             "language": "Vala",
-            "last_commit": "2026-05-19T14:54:45Z",
+            "last_commit": "2026-05-20T17:18:03Z",
             "owner": "alainm23",
             "repo": "planify",
-            "stars": 5293
+            "stars": 5297
           }
         },
         {
@@ -365,7 +365,7 @@
             "last_commit": "2025-09-24T14:09:08Z",
             "owner": "phw",
             "repo": "peek",
-            "stars": 10561
+            "stars": 10560
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2025-12-19T09:52:43Z",
             "owner": "ebassi",
             "repo": "graphene",
-            "stars": 428
+            "stars": 429
           }
         },
         {
@@ -654,7 +654,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-20T06:01:19.241Z",
+    "last_updated": "2026-05-21T06:04:41.823Z",
     "original_repository": "desiderantes/awesome-vala",
     "source_repository": "v1nvn/enhansome-vala",
     "source_repository_description": null,
